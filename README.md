@@ -1,4 +1,4 @@
-# Auto Complete# Auto Complete
+# Auto Complete
 
 This project is a React application built with TypeScript. It provides an auto-complete feature using a list of names.
 

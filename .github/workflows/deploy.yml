@@ -19,6 +19,11 @@ jobs:
       - name: Checkout 🛎️
         uses: actions/checkout@v3
 
+      - name: Clean folders 🧹
+        run: |
+          rm -rf node_modules
+          rm -rf dist
+
       - name: Install and Build 🔧
         run: |
           npm ci

@@ -1,0 +1,13 @@
+.auto-complete__input {
+	box-sizing: border-box;
+	width: 100%;
+	padding: 0.5em;
+	font-size: 1.5em;
+	border: 1px solid #ccc;
+	border-radius: 0.5em;
+	outline: none;
+}
+
+.auto-complete__input:focus {
+	border-color: #646cff;
+}

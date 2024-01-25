@@ -1,0 +1,10 @@
+.auto-complete__list {
+	width: 100%;
+	max-height: 20em;
+	overflow-y: scroll;
+	border: 1px solid #353535;
+	border-radius: 0.5em;
+	text-align: left;
+	display: flex;
+	flex-direction: column;
+}
